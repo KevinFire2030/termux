@@ -6,6 +6,6 @@ def sum_to_n(n):
     return total
 
 # 1부터 10000까지의 합 계산
-final_sum = sum_to_n(10000)
+final_sum = sum_to_n(1000000)
 
 print(f"\n최종 결과: 1부터 10000까지의 합은 {final_sum}입니다.")
